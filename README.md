@@ -58,6 +58,9 @@ Request/Response schemas
 DTO validation details
 Interactive API testing
 
+<img width="1353" height="659" alt="image" src="https://github.com/user-attachments/assets/a1ceb5e8-2a9e-4b09-93c3-46d27b76498d" />
+
+
 ## 🧩 Architecture Overview
 - Modular NestJS structure
 - Controller → Service → Prisma Layer
